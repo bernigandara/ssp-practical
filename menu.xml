@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+    <category name="Coffee">
+        <item>
+            <listing>Espresso</listing>
+            <price>3.00</price>
+        </item>
+        <item>
+            <listing>Latte</listing>
+            <price>3.50</price>
+        </item>
+        <item decaf="true">
+            <listing>Americano</listing>
+            <price>3.20</price>
+        </item>
+    </category>
+    <category name="Frappe">
+        <item>
+            <listing>Saulted Caramel</listing>
+            <price>4.5</price>
+        </item>
+        <item>
+            <listing>Pumpkin Spice Frappe</listing>
+            <price>4.5</price>
+        </item>
+        <item decaf="true">
+            <listing>Mint Chocolate</listing>
+            <price>4.8</price>
+        </item>
+    </category>
+    <category name="Iced Coffe">
+        <item>
+            <listing>Iced Tasted Vanilla</listing>
+            <price>4.0</price>
+        </item>
+        <item>
+            <listing>Iced Shaken Espresso</listing>
+            <price>3.8</price>
+        </item>
+        <item decaf="true">
+            <listing>Iced Flat white</listing>
+            <price>4.10</price>
+        </item>
+    </category>
+    <category name="Tea">
+        <item>
+            <listing>Mint</listing>
+            <price>2.5</price>
+        </item>
+        <item>
+            <listing>Green</listing>
+            <price>2.7</price>
+        </item>
+        <item decaf="true">
+            <listing>Breakfast</listing>
+            <price>3.5</price>
+        </item>
+    </category>
+    <category name="Desserts">
+        <item>
+            <listing>Cheesecake</listing>
+            <price>4.5</price>
+        </item>
+        <item>
+            <listing>Chocolate brownie</listing>
+            <price>4.5</price>
+        </item>
+        <item>
+            <listing>Carrot Cake</listing>
+            <price>5.0</price>
+        </item>
+    </category>
+</menu>
